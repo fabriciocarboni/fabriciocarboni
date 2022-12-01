@@ -1,7 +1,7 @@
-### Hi there 👋
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=fabriciocarboni&bg_color=ffffff&color=050505&line=7424ce&point=cc1b90&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
+### Hi there 👋
 **fabriciocarboni/fabriciocarboni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
