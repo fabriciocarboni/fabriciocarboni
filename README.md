@@ -1,5 +1,3 @@
-[![Fabricio's github activity graph](https://activity-graph.herokuapp.com/graph?username=fabriciocarboni&bg_color=ffffff&color=050505&line=7424ce&point=cc1b90&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ![fabriciocarboni snake gif](https://github.com/fabriciocarboni/fabriciocarboni/blob/output/github-contribution-grid-snake.svg)
 <!--
 ### Hi there 👋
