@@ -1,16 +1,17 @@
-![fabriciocarboni snake gif](https://github.com/fabriciocarboni/fabriciocarboni/blob/output/github-contribution-grid-snake.svg)
-<!--
-### Hi there 👋
-**fabriciocarboni/fabriciocarboni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Fabricio 👋
 
-Here are some ideas to get you started:
+## About Me
+I'm a passionate technologist with a background in data engineering and currently transitioning into the exciting field of DevOps engineering. I have spent most of my career working with data. Now, I'm eager to apply my skills and knowledge in infrastructure management, automation, and software delivery. My expertise and my ability allows me to bridge the gap between DevOps and data engineering roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **DevOps Engineering**: Transitioning into the DevOps field with a focus on infrastructure management, CI/CD, and automating deployment processes.
+- **Data Engineering**: Strong foundationdata integration, ETL processes, and data warehousing using tools like Python and SQL databases.
+- **Cloud Computing**: Most confortable with AWS but eager to learn other cloud providers.
+- **Infrastructure as Code**: Experienced in using tools like Terraform and Ansible to define and provision infrastructure resources in a repeatable and automated manner.
+- **Containerization and Orchestration**: Docker and Kubernetes is a challenge for me, but I embrace it as an exciting opportunity for growth and expanding my skill set in modern containerization and orchestration technologies.
+
+## Let's Connect
+I'm excited about the possibilities that the DevOps field offers and I'm eager to connect with like-minded professionals. Feel free to reach out to me on [LinkedIn]([https://linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/fabriciocarboni/)) to discuss technology, collaborate on projects, or share insights.
+
+Take a look at my repositories to explore my work and feel free to contact me if you have any questions or suggestions!
+
