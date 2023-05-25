@@ -11,7 +11,7 @@ I'm a passionate technologist with a background in data engineering and currentl
 - **Containerization and Orchestration**: Docker and Kubernetes is a challenge for me, but I embrace it as an exciting opportunity for growth and expanding my skill set in modern containerization and orchestration technologies.
 
 ## Let's Connect
-I'm excited about the possibilities that the DevOps field offers and I'm eager to connect with like-minded professionals. Feel free to reach out to me on [LinkedIn]([https://linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/fabriciocarboni/)) to discuss technology, collaborate on projects, or share insights.
+I'm excited about the possibilities that the DevOps field offers and I'm eager to connect with like-minded professionals. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/fabriciocarboni/) to discuss technology, collaborate on projects, or share insights.
 
 Take a look at my repositories to explore my work and feel free to contact me if you have any questions or suggestions!
 
