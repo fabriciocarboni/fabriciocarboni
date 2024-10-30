@@ -1,7 +1,7 @@
 # Hi there, I'm Fabricio 👋
 
 ## About Me
-I'm a passionate technologist with a background in data engineering and currently transitioning into the exciting field of DevOps engineering. I have spent most of my career working with data. Now, I'm eager to apply my skills and knowledge in infrastructure management, automation, and software delivery. My expertise and my ability allows me to bridge the gap between DevOps and data engineering roles.
+I'm a passionate technologist with a background in data engineering and currently working mixing the role of Data Engineering & DevOps. I have spent most of my career working with data. Now, I'm eager to apply my skills and knowledge in infrastructure management, automation, and software delivery. My expertise and my ability allows me to bridge the gap between DevOps and data engineering roles.
 
 ## Skills
 - **DevOps Engineering**: Transitioning into the DevOps field with a focus on infrastructure management, CI/CD, and automating deployment processes.
